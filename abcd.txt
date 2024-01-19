@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hi may you be fre help you
 
 help me in learning git
@@ -7,3 +8,6 @@ hi how are you
 =======
 i am kishan kumar .
 >>>>>>> 1069a89 (commit by kishan)
+=======
+i am kishan kumar .git
+>>>>>>> 277554e (kishan commit)
