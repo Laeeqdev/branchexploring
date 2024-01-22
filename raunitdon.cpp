@@ -1,1 +1,1 @@
-raunit is a bad boy with good opp
+raunit is a bad boy with good opportunity
